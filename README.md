@@ -8,7 +8,7 @@ Practice project simulating a real client engagement, not an actual client deliv
 
 **Objective:**
 
-Give business stakeholders a clear view of platform health (sales, ratings, orders) and uncover operational patterns to guide staffing, promotions, and regional strategy
+Provide a clear picture of platform health to business stakeholders (sales, ratings, orders) and identify operational trends to inform regional strategy, staffing, and promotions.
 
 **Data Period:**
 
