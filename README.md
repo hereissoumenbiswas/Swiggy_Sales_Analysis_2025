@@ -2,7 +2,7 @@
 
 A complete analyst workflow in Excel — from a client-style BRD to a decision-ready dashboard — analyzing 8 months of pan-India food-delivery data to uncover sales trends, AOV drivers, and regional performance.
 
-Practice project simulating a real client engagement, not an actual client deliverable.
+A practice endeavor that simulates a genuine client engagement, rather than an actual client deliverable.
 
 ## 📌 Project Overview
 
